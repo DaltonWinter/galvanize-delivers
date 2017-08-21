@@ -1,0 +1,52 @@
+
+.menu {
+ font-size: 22px;
+ text-align: left;
+
+}
+
+.centeredh1 {
+ text-align: center;
+ padding-top: 50px;
+ text-weight: bold;
+ color: white;
+}
+
+
+.centeredh2 {
+ text-align: center;
+ color: purple;
+ font-size: 175%;
+}
+
+.paragraph {
+ text-align: center;
+ font-size: 14px;
+}
+
+#otherp {
+ text-align: left;
+}
+
+.orderform {
+ font-size: 22px;
+}
+
+.btn {
+ margin: 0 auto;
+}
+
+.order {
+ font-size: 22px;
+
+}
+#order {
+float: right;
+}
+
+.parallax-container {
+ background-image: url("./img/hero.jpg");
+ background-size: cover;
+ background-repeat: none;
+ height: 300px;
+}
